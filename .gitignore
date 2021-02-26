@@ -1,0 +1,14 @@
+# .gitignore
+/provisioning/cc201
+# Hidden Vagrant-directory
+.vagrant
+README.md
+
+# Backup files (e.g. Vim, Gedit, etc.)
+*~
+
+# Vagrant base boxes (you never know when someone puts one in the repository)
+*.box
+
+# VirtualBox appliances
+*.ova
