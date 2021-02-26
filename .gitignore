@@ -2,7 +2,6 @@
 /provisioning/cc201
 # Hidden Vagrant-directory
 .vagrant
-README.md
 
 # Backup files (e.g. Vim, Gedit, etc.)
 *~
