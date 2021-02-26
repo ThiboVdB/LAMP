@@ -1,3 +1,3 @@
 # LAMP
 
-Just practising Bahs scripting :)
+Just practising Bash scripting :)
